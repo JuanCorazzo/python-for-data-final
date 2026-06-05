@@ -4,3 +4,6 @@ matplotlib
 plotly
 scikit-learn
 streamlit
+
+# Las agregamos solo para pruebas del curso
+seaborn
